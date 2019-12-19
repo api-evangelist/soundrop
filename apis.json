@@ -1,0 +1,57 @@
+{
+    "name": "Soundrop",
+    "description": "License cover songs & video game music - Free music distribution for original songs across top platforms. Collaborator & royalty MGMT - No recurring fees!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1550-soundrop.jpg",
+    "tags": [
+        "chats",
+        "have api",
+        "music",
+        "playlists",
+        "social",
+        "spelling",
+        "spotfiy"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/soundrop\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Soundrop",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1550-soundrop.jpg",
+            "humanURL": "http:\/\/soundrop.fm\/partners\/developers",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/soundrop-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/soundrop.fm\/partners\/developers"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/soundrop"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/soundrop"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/soundrop"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/soundrop"
+        }
+    ]
+}
